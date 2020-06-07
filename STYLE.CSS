@@ -1,0 +1,50 @@
+*{
+    background-color:palegoldenrod;
+    
+}
+HEADER{ border: 2px solid palevioletred;
+    text-align: center;
+    text-shadow: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 200%;
+    font-style: italic;
+    background-color: skyblue;
+    
+}
+table{
+    border: 2PX solid pink;
+
+    margin: 1em auto 1em auto;
+}
+td{
+    border: 2px solid seagreen;
+}
+th{
+    border: 2px solid seagreen;
+}
+div{
+    max-width: 300px;
+    border-radius: 1em;
+    border: 3px solid black;
+}
+i{text-align: center;}
+
+table:hover{
+    color: blueviolet;
+    text-shadow: chartreuse;
+}
+
+.IT{
+    width: 300PX;
+    height: 320px;
+    background-color: chartreuse; 
+    float: left;
+}
+
+.we{
+    width: 300PX;
+    height: 320px;
+    float: left;
+       
+ }
+
